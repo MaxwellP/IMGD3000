@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="dragonfly-v2.4">
+      <df name="include">
+        <in>Box.h</in>
+        <in>Circle.h</in>
+        <in>Clock.h</in>
+        <in>Event.h</in>
+        <in>EventCollision.h</in>
+        <in>EventKeyboard.h</in>
+        <in>EventMouse.h</in>
+        <in>EventOut.h</in>
+        <in>EventStep.h</in>
+        <in>EventView.h</in>
+        <in>Frame.h</in>
+        <in>Fraps.h</in>
+        <in>GameManager.h</in>
+        <in>GraphicsManager.h</in>
+        <in>InputManager.h</in>
+        <in>Line.h</in>
+        <in>LogManager.h</in>
+        <in>Manager.h</in>
+        <in>Object.h</in>
+        <in>ObjectList.h</in>
+        <in>ObjectListIterator.h</in>
+        <in>Position.h</in>
+        <in>ResourceManager.h</in>
+        <in>SceneGraph.h</in>
+        <in>Splash.h</in>
+        <in>SplashDragonfly.h</in>
+        <in>Sprite.h</in>
+        <in>ViewObject.h</in>
+        <in>WorldManager.h</in>
+        <in>utility.h</in>
+      </df>
+      <in>game.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>Cygwin|Cygwin</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>game.exe</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem></pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="game.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="include/Box.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Circle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Clock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Event.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/EventCollision.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/EventKeyboard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/EventMouse.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/EventOut.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/EventStep.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/EventView.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Frame.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Fraps.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/GameManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/GraphicsManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/InputManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Line.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/LogManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Manager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Object.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/ObjectList.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/ObjectListIterator.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Position.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/ResourceManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/SceneGraph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Splash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/SplashDragonfly.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/Sprite.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/ViewObject.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/WorldManager.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="include/utility.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
