@@ -3,7 +3,7 @@
 
 ![Image of ./puzzle_adventure](http://web.cs.wpi.edu/~imgd3000/a13/games/puzzle/icon.png)
 
-[Max Perlman](http://maxperlman.com/) and I made our own game using the [Dragonfly](http://dragonfly.wpi.edu/engine/index.html) engine.
+[Stefan Alexander](http://stefafafan.com/) and I made our own game using the [Dragonfly](http://dragonfly.wpi.edu/engine/index.html) engine.
 Our game uses Dragonfly version 2.5.
 
 Also available here: http://web.cs.wpi.edu/~imgd3000/a13/games/
